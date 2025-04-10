@@ -1,7 +1,9 @@
 # Node.js Docker App
 
-## Commands Used
+This is a simple Node.js app packaged in a Docker container.
 
-### Build Image
+## 🔧 Commands Used
+
+### 🔹 Build Image
 ```bash
 docker build -t 78915/node-app .
